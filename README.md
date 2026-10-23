@@ -44,18 +44,6 @@
 | [**House Price Prediction**](https://github.com/AZZAM-ALNAMER/REPO-NAME-HOUSE) | 10-model ML comparison, tuned XGBoost with R² 0.89 | Scikit-learn · XGBoost · Pandas |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AZZAM-ALNAMER&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZZAM-ALNAMER&layout=compact&hide_border=true&title_color=0A66C2" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 <i>Open to remote AI Engineer and ML Engineer roles, internships or junior positions. Let's connect.</i>
 </div>
